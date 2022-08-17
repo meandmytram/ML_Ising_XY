@@ -1,1 +1,1 @@
-This repo contains code related to my MSc thesis
+This repo contains code related to my MSc thesis.
